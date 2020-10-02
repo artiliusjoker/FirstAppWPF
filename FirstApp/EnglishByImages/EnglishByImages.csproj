@@ -63,6 +63,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="MyDictionary.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -93,6 +94,20 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\breadfruit.jpg" />
+    <Resource Include="Resources\durian.jpg" />
+    <Resource Include="Resources\jackfruit.jpg" />
+    <Resource Include="Resources\mango.jpg" />
+    <Resource Include="Resources\mangosteen.jpg" />
+    <Resource Include="Resources\orange.jpg" />
+    <Resource Include="Resources\peach.jpg" />
+    <Resource Include="Resources\pitaya.jpg" />
+    <Resource Include="Resources\pomelo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\apple.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
