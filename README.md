@@ -1,7 +1,11 @@
 # FirstAppWPF
+
 **Trương Minh Quân**
+
 *Mã số sinh viên : 1712695*
+
 *Email : 1712695@student.hcmus.edu.vn*
+
 **Các chức năng đã làm được**
  
  - Hoàn thành đủ các chức năng được yêu cầu của 2 bài.
